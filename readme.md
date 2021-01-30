@@ -6,7 +6,7 @@
 
 ### В результате тестирования выявлены следующие дефекты: ###    
 
-[ https://github.com/AnnaStarkov/DZJ2.1/issues/1#issue-797153788 ]  
+[ Ссылка на issues ] ( https://github.com/AnnaStarkov/DZJ2.1/issues/1#issue-797153788 )  
 
 ### Описание процесса тестирования ###  
 
